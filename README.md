@@ -8,7 +8,7 @@ Get all My Basic Data 📜!!
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
+<img src="http://imgur.com/a/bYmK7lR" width="495px">
 
 <p align="left"> <a href="https://github.com/OxyNotOp"><img src="https://github-profile-trophy.vercel.app/?username=OxyNotOp" alt="OxyNotOp" /></a> </p>
 
