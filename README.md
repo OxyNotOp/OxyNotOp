@@ -8,7 +8,7 @@ Get all My Basic Data 📜!!
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
-<img src="https://giphy.com/gifs/C4uIR5XxM2Ki2ruYdS/giphy.gif" width="40" height="40" />
+![grab-landing-page](https://github.com/OxyNotOp/OxyNotOp/blob/main/https://giphy.com/gifs/C4uIR5XxM2Ki2ruYdS
 
 <p align="left"> <a href="https://github.com/OxyNotOp"><img src="https://github-profile-trophy.vercel.app/?username=OxyNotOp" alt="OxyNotOp" /></a> </p>
 
