@@ -36,4 +36,4 @@ Hi, I'm Oxy 😉, A NOOB, A curiouse student 👨💻 From India 🇮🇳.I like
 
 - ⭐️ From [𝕺𝖝𝕪](https://github.com/OxyNotOp)
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OxyNotOp&theme=algolia&show_icons=true" alt="𝕺𝖝𝕪"/></p>
-[![Profile views](https://gpvc.arturio.dev/OxyNotOp)](https://github.com/OxyNotOp)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/OxyNotOp)](https://github.com/OxyNotOp)
