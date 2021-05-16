@@ -33,6 +33,7 @@ Hi, I'm Oxy 😉, A NOOB, A curiouse student 👨💻 From India 🇮🇳.I like
 - 👨💻 I’m currently working on a mission !
 - 🌱 I’m currently learning ___IDK___ .
 - 🤔 My research interests are with electronis, softwares codes !!
+
 [![Profile views](https://gpvc.arturio.dev/OxyNotOp)](https://github.com/OxyNotOp)
 - ⭐️ From [𝕺𝖝𝕪](https://github.com/OxyNotOp)
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OxyNotOp&theme=algolia&show_icons=true" alt="𝕺𝖝𝕪"/></p>
