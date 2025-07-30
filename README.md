@@ -22,7 +22,9 @@ Get all My Basic Data 📜!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxyNotOp)](https://github.com/OxyNotOp)
 
 
-Hi, I'm Oxy 😉, a noob and a curious student 👨💻 from India 🇮🇳. I like Python 🐍 (the language, not the snake, lol). Besides programming, I enjoy delicious food 🥗🌮🍣 and working on electronics projects.
+Hi, I'm Oxy 😉, A NOOB, a curiouse student 👨💻 from India 🇮🇳. I like Python language 🐍, not snake lol. Besides programming, I like delicious food 🥗🍛🥦 and doing electronics projects.
+
+
 
 **Current Status**
 
