@@ -31,28 +31,6 @@ Hi, I'm Oxy 😉, A NOOB, a curiouse student 👨💻 from India 🇮🇳. I lik
 ## Me iz from ![](https://img.shields.io/badge/-India-white)
 
 - [Find me on telegram to contact me](https://t.me/FallenAngel_xD) !
-- import React from "react";
-
-export default function HomePage() {
-  return (
-    <main className="min-h-screen bg-black text-white flex flex-col items-center px-6 py-12">
-      <h1 className="text-4xl font-bold mb-6">@OxyNotOp</h1>
-
-      <a
-        href="https://t.me/OxyNotOp"
-        className="bg-blue-500 text-white py-3 px-6 rounded-2xl text-center font-medium hover:bg-blue-600"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        ✈️ Find me on Telegram
-      </a>
-
-      <footer className="mt-12 text-sm text-gray-500">
-        Built with ❤️ using React + Tailwind
-      </footer>
-    </main>
-  );
-}
 - 👨💻 I’m currently working on a mission !
 - 🌱 I’m currently learning ___IDK___ .
 - 🤔 My research interests are with electronis, softwares codes !!
