@@ -31,6 +31,14 @@ Hi, I'm Oxy 😉, A NOOB, a curiouse student 👨💻 from India 🇮🇳. I lik
 ## Me iz from ![](https://img.shields.io/badge/-India-white)
 
 - [Find me on telegram to contact me](https://t.me/FallenAngel_xD) !
+- <a
+  href="https://t.me/OxyNotOp"
+  className="bg-blue-500 text-white py-3 px-6 rounded-2xl text-center font-medium hover:bg-blue-600"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  ✈️ Find me on Telegram
+</a>
 
 - 👨💻 I’m currently working on a mission !
 - 🌱 I’m currently learning ___IDK___ .
