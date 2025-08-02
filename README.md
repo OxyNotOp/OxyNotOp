@@ -30,11 +30,10 @@ Hi, I'm Oxy 😉, A NOOB, a curiouse student 👨💻 from India 🇮🇳. I lik
 
 ## Me iz from ![](https://img.shields.io/badge/-India-white)
 
-- [Find me on telegram to contact me](https://t.me/FallenAngel_xD) !
+- [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/OxyNotOp)
 - 👨💻 I’m currently working on a mission !
 - 🌱 I’m currently learning ___IDK___ .
 - 🤔 My research interests are with electronis, softwares codes !!
 - ⭐️ From [🔥𝕐𝖔𝖚𝖗 - 𝕯𝖆𝖉𝖉𝕪🔥](https://github.com/OxyNotOp)
-- [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/OxyNotOp)
 - ![Visitor Count](https://komarev.com/ghpvc/?username=OxyNotOp&style=flat-square)
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OxyNotOp&theme=algolia&show_icons=true" alt="𝕺𝖝𝕪"/></p>
